@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "소프트웨어 엔지니어 백엔드 개발자"
+title: "Software Engineering 백엔드 개발자"
 subtitle: -성장하기 위한 여정-
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---

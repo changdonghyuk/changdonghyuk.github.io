@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "새로운 도전을 두려워하지 않고 새로운 것을 배우고 발전하는 열정"
-subtitle: -늦은 개발자의 항로-
+title: "소프트웨어 엔지니어가 꿈인 백엔드 개발자"
+subtitle: -성장하기 위한 여정-
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 

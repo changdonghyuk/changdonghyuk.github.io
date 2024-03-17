@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: "새로운 도전을 두려워하지 않고 새로운 것을 배우고 발전하는 열정"
+subtitle: -늦은 개발자의 항로-
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 

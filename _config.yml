@@ -7,7 +7,7 @@ title: Chang Dong Hyuk
 description: Acedemic Website of Deepjd
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Seokho Son
+author: Chang Dong Hyuk
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
@@ -17,17 +17,17 @@ navbar-links:
   Notion: "Notion"
   Project: "project"
   GitHub: "changdonghyuk.github.io"
-  Google Scholar: "https://scholar.google.com/citations?user=changdonghyuk" 
+  Google Scholar: "https://scholar.google.com/citations?user=changdonghyuk"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/changdonghyuk.jpg"
+avatar: "/assets/img/seokho-square-2.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-#title-img: "/assets/img/changdonghyuk.jpg"
+#title-img: "/assets/img/seokho-square-2.jpg"
 
 
 # --- Footer options --- #
@@ -36,7 +36,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links :
-  Email: "huk0641@naver.com" github: "changdonghyuk.com"
+  Email: "huk0641@naver.com" 
+  github: changdonghyuk
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname

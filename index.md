@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "소프트웨어 기술자"
-subtitle: -성장하기 위한 백엔드 개발자-
+subtitle: -성장하기 위한 신입 백엔드 개발자-
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 

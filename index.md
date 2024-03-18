@@ -6,7 +6,7 @@ cover-img: /assets/img/소프트웨어 신입.jpg
 ---
 ># *Propfile*  
 - 이름 : 장 동 혁
-- 
+  
 - 생년월일 : 1990년 1월 27일  
 
 ># *Education*

@@ -5,19 +5,30 @@ subtitle: -성장하기 위한 신입 백엔드 개발자-
 cover-img: /assets/img/소프트웨어 신입.jpg
 ---
 ># *Propfile*  
-
-### **개인 정보**
-
-- **이름:** 장 동혁
-- **생년월일:** 1990년 1월 27일  
 <br>
 
-### **학력**
+- 이름 : 장 동 혁 
 
- - **학교:** 인천 전자공업고등학교
- - **전공:** 마이스터 정보통신과
+- 생년월일 : 1990년 1월 27일  
+<br>
+># *Education*
+<br>
 
-<br/>
+- 학교 : 인천 전자공업고등학교
+  
+- 전공 : 마이스터 정보통신과
+
+<br>
+
+># *Contact Information*
+<br>
+
+- **Phone:** 010-5203-2729 
+- **GitHub:** [https://github.com/changdonghyuk](https://github.com/changdonghyuk) 
+- **Email:** [huk0641@naver.com](mailto:huk0641@naver.com) 
+
+<br>
+
 
 ># *About me*
 
@@ -31,9 +42,4 @@ cover-img: /assets/img/소프트웨어 신입.jpg
 
 <br>
 
->## *Contact Information*
-
-- **Phone:** 010-5203-2729 
-- **GitHub:** [https://github.com/changdonghyuk](https://github.com/changdonghyuk) 
-- **Email:** [huk0641@naver.com](mailto:huk0641@naver.com) 
 

@@ -9,14 +9,16 @@ cover-img: /assets/img/소프트웨어 신입.jpg
 
 -  Dong Hyuk Jang  
 -  1990.01.27 Incheon  
--  **Phone:** 010-5203-2729 
--  **GitHub:** [https://github.com/changdonghyuk](https://github.com/changdonghyuk) 
--  **Email:** [huk0641@naver.com](mailto:huk0641@naver.com)
+-  Phone 010-5203-2729 
+-  GitHub [https://github.com/changdonghyuk](https://github.com/changdonghyuk) 
+-  Email [huk0641@naver.com](mailto:huk0641@naver.com)
 
 ># *Education*
 
-- 인천 전자공업고등학교 _ 마이스터 정보통신과
 - 서울사이버대학교 _ 컴퓨터공학과
+- 인력개발원 _ 인텔 엣지 소프트웨어 
+- 인천 전자공업고등학교 _ 마이스터 정보통신과
+
   
 ># *About me*
 

@@ -8,38 +8,38 @@ title: Overall Experience
 ### Electronics Computer Engineering
 #### 신입 백엔드 개발자  2024 to Present
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+### 인텔 엣지 과정 교육 기반 
+2023.09 ~ 2023.12
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
+C언어와 C++을 기반으로 한 팀프로젝트를 통해 소프트웨어 OpenCV 라이브러리를 활용하여 
+이미지 처리와 컴퓨터 비전 관련 다양한 기능을 구현, MFC를 통해 사용자 인터페이스를 구축하고
+C++을 사용하여 각 기능의 구체화를 구현
 
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
+2024.01 ~ 2024.04
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
+Open VINO 머신러닝 , 딥러닝 ai관련에 대한 이해도구성과++  
 
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
+임베디드 및 리눅스 프로그래밍, 라즈베리 파이를 활용한 실습 과정을 거쳤습니다. 
+이 과정에서는 하드웨어 동작 제어와 관련된 다양한 개념과 기술을 습득하였습니다. 
+특히, 임베디드 시스템에서의 프로그래밍과 리눅스 환경에서의 개발에 대한 이해를 높이고, 
+라즈베리 파이를 활용하여 실제 하드웨어를 제어하는 경험을 쌓았습니다.
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student, 2006 to 2008
+### 서울 사이버대학교 전공과목
 
-* Project: _**Development of e-organ system based on cyber computing**_
-  * Role: development of a high resolution interactive brain visualization system (3D brain, MRI, and EIT images)
-* Project: _**Research on realistic digital broadcasting technology**_
-  * Role: development of a realistic broadcasting system
-* Project: _**Development of Immersive 3D networked virtual environment technology**_
-  * Role: development of a delay compensation mechanism to mitigate network delay problems in 3D network virtual environment with haptic devices
+2024 03 ~  
 
-<br/>
+C 언어 
+
+데이터 베이스
+
+리눅스
+
+파이썬 
+
 # SKILLS & TOOL
-# Professional Activity
+
+
+c.c++ , python , mysql , git , filmora , Linux   
 
 
 <br/>

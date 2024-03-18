@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Jang Dong Hyuk
+title: Jang Dong Hyuk Acedemic Website 
 
 # [수정필요] 간단한 사이트 설명
 description: Acedemic Website 
@@ -38,7 +38,7 @@ round-avatar: true
 social-network-links :
   Email: "huk0641@naver.com" 
   github: "changdonghyuk"
-#  twitter: daattali
+  twitter: 
 #  rss: true
 #  reddit: yourname
 #  xing: yourname
@@ -59,7 +59,8 @@ social-network-links :
 # --- General options --- #
 # Select which social network share links to show in posts
 share-links-active:
-#  twitter: true
+  Email: true
+  twitter: true
   email: true
 # linkedin: true
 #  vk: false

@@ -4,23 +4,18 @@ title: "소프트웨어 기술자"
 subtitle: -성장하기 위한 신입 백엔드 개발자-
 cover-img: /assets/img/소프트웨어 신입.jpg
 ---
-># *Propfile*
-
-- 이름 : 장 동 혁
-  
-- 생년월일 : 1990년 1월 27일  
-
-># *Education*
-
-- 학교 : 인천 전자공업고등학교
-  
-- 전공 : 마이스터 정보통신과
-
-># *Contact Information*
-
+># *Propfile Contact Information*
+## 장 동 혁
+- Dong Hyuk Jang  
+- 1990.01.27 Incheon  
 - **Phone:** 010-5203-2729 
 - **GitHub:** [https://github.com/changdonghyuk](https://github.com/changdonghyuk) 
-- **Email:** [huk0641@naver.com](mailto:huk0641@naver.com) 
+- **Email:** [huk0641@naver.com](mailto:huk0641@naver.com)
+- 
+># *Education*
+
+- 인천 전자공업고등학교 _ 마이스터 정보통신과
+- 서울사이버대학교 _ 컴퓨터공학과 
 
 ># *About me*
 

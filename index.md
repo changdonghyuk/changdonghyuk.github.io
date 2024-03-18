@@ -18,10 +18,10 @@ cover-img: /assets/img/소프트웨어 신입.jpg
 <br>
 <br>
 
-|*Contact*|||
-|------|---|---|
-|Phone|010-5203-2729||
-|GitHub|https://github.com/changdonghyuk||
-|notion|https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4||
-|Email |huk0641@naver.com  
+|*Contact*||
+|------|---|
+|Phone|010-5203-2729|
+|GitHub|https://github.com/changdonghyuk|
+|notion|https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4|
+|Email |huk0641@naver.com|
 

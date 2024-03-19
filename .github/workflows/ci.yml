@@ -1,4 +1,4 @@
-#name: Beautiful Jekyll CI
+name: Beautiful Jekyll CI
 on: [push, pull_request]
 jobs:
   build:

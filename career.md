@@ -24,22 +24,10 @@ Open VINO 머신러닝 , 딥러닝 ai관련에 대한 이해도구성과++
 특히, 임베디드 시스템에서의 프로그래밍과 리눅스 환경에서의 개발에 대한 이해를 높이고, 
 라즈베리 파이를 활용하여 실제 하드웨어를 제어하는 경험을 쌓았습니다.
 
-### 서울 사이버대학교 전공과목
-
-2024 03 ~  
-
-C 언어 
-
-데이터 베이스
-
-리눅스
-
-파이썬 
-
-# SKILLS & TOOL
+### SKILLS & TOOL
 
 
-c.c++ , python , mysql , git , filmora , Linux   
+c.c++ , python , mysql , git , Linux   
 
 
 <br/>

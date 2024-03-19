@@ -27,7 +27,8 @@ Open VINO 머신러닝 , 딥러닝 ai관련에 대한 이해도구성과++
 ### SKILLS & TOOL
 
 
-c.c++ , python , mysql , git , Linux   
+<img src="https://img.shields.io/badge/C -gold?style=for-the-badge&logo=C&logoColor=black"/>
+c++, python , mysql , git , Linux   
 
 
 <br/>

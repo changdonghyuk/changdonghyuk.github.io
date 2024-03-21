@@ -4,7 +4,6 @@ title: Overall Experience
 
 ---
 <br/>
-
 ### Electronics Computer Engineering
 #### 2024 to Present 신입 백엔드 개발자  
 

@@ -9,7 +9,7 @@ cover-img: /assets/img/소프트웨어 신입.jpg
 
 -  Dong Hyuk Jang  
 -  1990.01.27 Incheon  
--  Phone 010-5203-2729 
+-  HP_ 010-5203-2729 
 -  GitHub [https://github.com/changdonghyuk](https://github.com/changdonghyuk) 
 -  Email [huk0641@naver.com](mailto:huk0641@naver.com)
 

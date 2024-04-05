@@ -7,9 +7,9 @@ cover-img: /assets/img/소프트웨어 신입.jpg
 ># *Propfile Contact Information*
 ---
 #   장   동 혁
----
 
--  Dong Hyuk Jang  
+
+-  Dong_Hyuk_Jang  
 -  1990.01.27 Incheon  
 -  HP_ 010-5203-2729 
 -  GitHub [https://github.com/changdonghyuk](https://github.com/changdonghyuk) 

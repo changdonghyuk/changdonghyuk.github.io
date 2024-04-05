@@ -20,6 +20,7 @@ title: Overall Experience
 
 <br>
 
+</div>
 
 # C / C++  
 ### 리눅스 프로그래밍 , 임베디드 , MFC , OpenCV
@@ -52,5 +53,5 @@ Workbench와 Command Line Client 사용하여 데이터를 주고받는 프로�
 변경 이력 , 오류를 확인하고 팀 프로젝트와 개인 과제의 소스 코드를 Git을 통해 통합 , 협업 , 공유
 소스코드 충돌해결을 위해 버전 관리작업 수행했습니다.
 
-</div>
+
 

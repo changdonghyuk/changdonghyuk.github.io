@@ -5,7 +5,8 @@ subtitle: -성장하기 위한 신입 백엔드 개발자-
 cover-img: /assets/img/소프트웨어 신입.jpg
 ---
 ># *Propfile Contact Information*
-#   장 동 혁
+
+#   장   동 혁
 
 -  Dong Hyuk Jang  
 -  1990.01.27 Incheon  

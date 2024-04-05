@@ -3,6 +3,7 @@ layout: page
 title: Overall Experience
 
 ---
+<div align="center">
 <br/>
 
 ### Electronics Computer Engineering
@@ -51,3 +52,4 @@ Workbench와 Command Line Client 사용하여 데이터를 주고받는 프로�
 <br/>
 
 
+</div>
